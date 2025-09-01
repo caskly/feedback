@@ -9,7 +9,6 @@ This repository contains **feedback and issues only** - the Caskly source code i
 - Bug reports
 - Feature requests
 - Questions and discussions
-- Documentation improvements
 
 ## How to Contribute
 
