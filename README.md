@@ -91,7 +91,6 @@ We use these labels to organize issues:
 - `bug` - Something isn't working correctly
 - `enhancement` - New features or improvements
 - `question` - General questions or support requests
-- `documentation` - Improvements to docs or help text
 - `good first issue` - Easy issues for new contributors
 - `priority-high` - Critical bugs or important features
 - `priority-low` - Nice-to-have improvements
